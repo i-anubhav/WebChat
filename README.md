@@ -1,2 +1,2 @@
 # WebChat
-A chatroom web application.
+A chatroom web application built using React.js & Firebase.
